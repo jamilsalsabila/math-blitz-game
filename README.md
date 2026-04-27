@@ -40,13 +40,13 @@ Game memiliki nuansa:
 
 ## Fitur
 
-✅ 10 level gameplay
-✅ Responsive layout (desktop/mobile)
-✅ Keyboard support
-✅ Touch support
-✅ Particle effects
-✅ Neon animation
-✅ Score recap di akhir permainan
+- ✅ 10 level gameplay
+- ✅ Responsive layout (desktop/mobile)
+- ✅ Keyboard support
+- ✅ Touch support
+- ✅ Particle effects
+- ✅ Neon animation
+- ✅ Score recap di akhir permainan
 
 ---
 
@@ -100,10 +100,10 @@ Atau jalankan menggunakan Live Server.
 
 ## Demo Online
 
-Jika menggunakan GitHub Pages:
+Vercel: 
 
 ```
-https://jamilsalsabila.github.io/math-blitz-game/
+https://math-blitz-game.vercel.app/
 ```
 
 ---
