@@ -79,7 +79,7 @@ math-blitz/
 Clone repository:
 
 ```bash
-git clone https://github.com/USERNAME/math-blitz-game.git
+git clone https://github.com/jamilsalsabila/math-blitz-game.git
 ```
 
 Masuk ke folder project:
@@ -103,7 +103,7 @@ Atau jalankan menggunakan Live Server.
 Jika menggunakan GitHub Pages:
 
 ```
-https://USERNAME.github.io/math-blitz-game/
+https://jamilsalsabila.github.io/math-blitz-game/
 ```
 
 ---
